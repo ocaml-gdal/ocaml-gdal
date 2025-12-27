@@ -1,4 +1,4 @@
-# vNEXT
+# v0.11.0
 - Upgrade build from jbuilder to dune
 
 # v0.10.0
